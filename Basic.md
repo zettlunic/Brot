@@ -73,8 +73,9 @@ Eine einfache Anleitung für ein saftiges, aromatisches Weizen-Sauerteig-Brot im
 - Insge­samt 4 Faltphasen.
 
 ### 4. Bulk-Fermentation (bis 4:00–6:00)
-- Bei **23–25 °C** gären lassen, bis das Volumen um 50–80 % zugenommen hat.  
+- Bei ungefähr **23–26 °C** gären lassen, bis das Volumen um 50–80 % zugenommen hat.
 - Bei kühlen Bedingungen (< 20 °C) längere Zeit einplanen.
+- Hier eher auf die Entwicklung des Teiges achten, die Zeit ist nebensächlich.
 
 ### 5. Vorformen (4:00)
 1. Teig vorsichtig aus der Schüssel auf die Arbeitsfläche „fallen lassen“.  
