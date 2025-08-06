@@ -1,41 +1,105 @@
 # Basic Weizen-Sauerteig Brot
 
-## Zutaten
-90% Weizenmehl, hoher Eiweißgehalt >12%  
-10% Weizenvollkorn Mehl (optional gesiebt)  
+Eine einfache Anleitung für ein saftiges, aromatisches Weizen-Sauerteig-Brot im „Marcel Style“.
 
-70% (des Mehl-Gewichts) Wasser warm. Bei höheren Eiweißgehalt oder mehr Vollkorn Anteil kann bis 80% erhöht werden  
-20% (Weizen oder Roggen) Sauerteig. Mindestens 2 mal gefüttert, sollte am höchsten Punkt stehen.  
-2% Salz  
+---
 
-z.B. für 2 Laib Marcel style  
-630g Weizen Mehl 700  
-70g Weizenvollkorn Mehl gesiebt  
-(700g Mehl gesamt):  
-490g Wasser  
-140g Sauerteig  
-14g Salz  
+## Zutaten (Bäcker-Prozent)
 
+| Zutat                                       | Anteil          |
+|---------------------------------------------|-----------------|
+| Weizenmehl (Type 700, Eiweiß ≥ 12 %)        | 90 %            |
+| Weizenvollkornmehl (gesiebt, optional)      | 10 %            |
+| Wasser (23–26 °C)                           | 70 – 80 %        |
+| aktiver Sauerteig (Weizen oder Roggen)      | 20 %            |
+| Salz                                        | 2 %             |
 
-## Methode
-Der Teig sollte an einem warmen Ort gehen. z.b. Licht im Backrohr aufdrehen & Spalt offen lassen. Oder Wasserflasche mit kochendem Wasser füllen und in den Ofen unter den Teig legen.  
-Ansonsten sind die Gärzeiten bis zu doppelt so lange.
+---
 
-0:00 Sauerteig ins Wasser (ca 10g Wasser aufheben), bissl rühren. Mehl dazu. Rühren bis kein trockenes Mehl mehr sichtbar, noch nicht kneten  
-0:30 Salz auf den Teig, restliches Wasser darauf. Einkneten bis kein Wasser mehr da ist. Mit Küchenmaschine oder Hand paar Minuten kneten. z.b Slap & Fold Technik. Hände feucht halten um kleben zu vermeiden, kein Mehl verwenden!  
-1:00 "Strech & Fold" oder "Coil Folds"  
-1:30 "Strech & Fold" oder "Coil Folds"  
-2:00 "Strech & Fold" oder "Coil Folds"  
-3:00 "Strech & Fold" oder "Coil Folds"  
+### Beispiel-Rezept für 2 Laibe (700 g Mehl gesamt)
 
-ca 4:00 - 6:00h nach Start sollte Teig 50-80% gewachsen sein, falls nicht weiter gehen lassen.  
+| Zutat                       | Menge   |
+|-----------------------------|--------:|
+| Weizenmehl (Type 700)       | 630 g   |
+| Weizenvollkornmehl, gesiebt |  70 g   |
+| Wasser                      | 490 g   |
+| Sauerteig (20 %)            | 140 g   |
+| Salz (2 %)                  |  14 g   |
 
-04:00 Teig vorsichtig auf unbemehlte Arbeitsfläche aus der Schüssel fallen lassen. Sollte gut halten und sich sehr luftig anfühlen. In 2 Teile (für 2 Laib) teilen und "pre-shapen". Dazu einfach zu einer Kugel rundschleifen. Nicht zu viel damit nicht das Gas entweicht.  
-04:20 Simperl bemehlen. Am besten mit Reismehl, alternativ Semolina. Wenn nur Weizen 700 dann stark bemehlen. Teig shapen (siehe Tutorials), mit Naht nach oben ins Simperl.  
-Einfacher ist eine Kastenform. Nach dem shapen in die beölt+bemehlte Kastenform legen.  
+---
 
-10-16h in den Kühlschrank.  
+## Equipment
 
-Ofen & Bräter oder Wasserbehälter vorheizen. ca 30-45min.  
-Teig auf Backpapier stürzen und mit sehr scharfem Messer oder Schere (einfacher) einschneiden. Siehe "scoring" Tutorials.  
-Dann ca 20 min mit Dampf (beim Bräter mit Deckel) bei 220c + 20-30 min ohne Dampf / ohne Deckel bei 200c backen. Nur Ober-Unterhitze, keine Umluft!  
+- Große Rührschüssel  
+- Knetmaschine oder Hand (z. B. Slap & Fold)  
+- Simperl/Gärkörbchen **oder** Kastenform  
+- Bräter mit Deckel **oder** Backblech + Wasserbehälter  
+- Scharfes Messer oder Schere zum Einschneiden  
+
+---
+
+## Zeitplan & Meilensteine
+
+| Zeitpunkt seit Start | Aktion                                             |
+|----------------------|----------------------------------------------------|
+| **0:00**             | Autolyse: Mehl + Wasser + Sauerteig grob mischen   |
+| **0:30**             | Salz & Restwasser einkneten (3–5 Minuten)          |
+| **1:00, 1:30, 2:00, 3:00** | je 1× „Stretch & Fold“ oder „Coil Folds“         |
+| **4:00–6:00**        | Bulk-Fermentation (Volumen + 50–80 %)              |
+| **4:00**             | Teig teilen & pre-shapen                           |
+| **4:20**             | Endformen im Simperl oder Kastenform               |
+| **10–16 h**          | Stückgare im Kühlschrank (4 – 8 °C)                |
+| **+30–45 Min.**      | Ofen & Bräter vorheizen                            |
+| **Backen**           | 20 Min. @ 220 °C mit Deckel, dann 20–30 Min. @ 200 °C ohne Deckel |
+
+---
+
+## Schritt-für-Schritt-Anleitung
+
+### 1. Autolyse (0:00)
+1. 10 g Wasser zurückbehalten.  
+2. Sauerteig im restlichen Wasser auflösen, kurz verrühren.  
+3. Beide Mehlsorten zufügen und mischen, bis keine trockenen Stellen bleiben.  
+4. 30 Minuten abgedeckt ruhen lassen.
+
+### 2. Salz- und Restwassereinzug (0:30)
+1. Salz gleichmäßig auf den Teig streuen.  
+2. Zurückbehaltenes Wasser dazugießen.  
+3. 3–5 Minuten kneten (Hand oder Küchenmaschine).  
+   - **Tipp:** Hände und Knetfläche feucht halten, kein zusätzliches Mehl.
+
+### 3. Dehn- & Faltphasen (1:00 – 3:00)
+- **Alle 30 Minuten** eine Runde „Stretch & Fold“ oder „Coil Folds“ durchführen.  
+- Insge­samt 4 Faltphasen.
+
+### 4. Bulk-Fermentation (bis 4:00–6:00)
+- Bei **23–25 °C** gären lassen, bis das Volumen um 50–80 % zugenommen hat.  
+- Bei kühlen Bedingungen (< 20 °C) längere Zeit einplanen.
+
+### 5. Vorformen (4:00)
+1. Teig vorsichtig aus der Schüssel auf die Arbeitsfläche „fallen lassen“.  
+2. In zwei gleiche Teile teilen.  
+3. Locker rundschleifen („pre-shape“), nicht zu stark entgasen.
+
+### 6. Endformen (4:20)
+- **Simperl/Gärkörbchen:** mit Reismehl oder Semolina bemehlen, Teig mit Naht nach oben einlegen.  
+- **Kastenform:** Form leicht ölen und bemehlen, Teig einschieben.
+
+### 7. Stückgare im Kühlschrank (10–16 h)
+- Im kalten Kühlschrank (4–8 °C) retardieren.
+
+### 8. Backen
+1. Ofen auf **220 °C Ober-/Unterhitze** vorheizen (mit Bräter + Deckel oder Wasserbehälter).  
+2. Teigling auf Backpapier stürzen, mit scharfem Messer/Schere einschneiden („scoring“).  
+3. **20 Min.** backen – Deckel drauf (Dampf).  
+4. Deckel abnehmen, weitere **20–30 Min.** bei **200 °C** (kein Dampf) fertigbacken.  
+5. Auf Gitter auskühlen lassen.
+
+---
+
+## Tipps & Varianten
+
+- **Hydration anpassen:** Bei höherem Vollkornanteil bis 80 % Wasser verwenden.  
+- **Gärkorb-Alternative:** Statt Simperl auch Leinentuch in Schüssel nutzen.  
+- **Gewürze & Körner:** Roggenflocken, Sesam oder Kümmel in den Teig einarbeiten.  
+- **Umluft vermeiden:** Nur Ober-/Unterhitze für optimale Kruste.  
